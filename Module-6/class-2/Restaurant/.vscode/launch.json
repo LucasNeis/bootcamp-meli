@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Exercise1Application<exercise1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.meli.exercise1.Exercise1Application",
+            "projectName": "exercise1",
+            "args": ""
+        }
+    ]
+}
